@@ -1,0 +1,23 @@
+
+
+
+
+
+for 1st time need to cinfigure github in your system
+ 
+git config --global user.name "Fzcode10"
+git config --global user.email "fzcoe7276@gmail.com"
+git config --global color.ui auto // for comment color
+
+
+mandatory commands:
+1-git init
+2-git remote add origin https://github.com/Fzcode10/GitDemo.git (Link_Of_Particullar repo)
+
+
+
+
+git pull origin  main
+
+to push folder in git repo - git status
+if any file is not available then add those file like - gti add .
